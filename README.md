@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/hyNs6kf/Slide-16-9-1.jpg)
+![banner](https://i.ibb.co/znnhrY1/Slide-16-9-1-1.jpg)
 
 **Bienvenido/a a mi repositorio!**
 
