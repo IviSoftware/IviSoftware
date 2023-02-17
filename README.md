@@ -1,8 +1,10 @@
-**Bienvenido/a a mi repositorio de React!**
+![banner](https://i.ibb.co/hyNs6kf/Slide-16-9-1.jpg)
 
-¡Hola! 👋 Soy Ivi_dev, un/a desarrollador de frontend especializado en React. Este es mi repositorio de GitHub donde encontrarás algunos de mis proyectos más recientes en React, así como algunas de mis herramientas y recursos favoritos.
+**Bienvenido/a a mi repositorio!**
 
-⚛ **Proyectos** ⚛
+¡Hola! 👋 Soy Ivi_dev, un/a desarrollador especializado en javascript. Este es mi repositorio de GitHub donde encontrarás algunos de mis proyectos más recientes en React y Express js, así como mi stack tecnológico
+
+⚛ **Mis proyectos** ⚛
 Aquí están algunos de mis proyectos en React que podrían interesarte:
 
 [Nombre del proyecto](enlace al repositorio): una breve descripción del proyecto.
