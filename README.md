@@ -6,7 +6,7 @@
 
 ### 🚀 **Acerca de mí**
 
-Soy un **frontend developer** apasionado por la tecnología, el diseño y la innovación. Mi enfoque siempre está en crear experiencias **elegantes** y **funcionales**. Me encanta trabajar con **React**, **TypeScript**, y **Tailwind CSS** para crear aplicaciones web modernas, al mismo tiempo que me inspiro en **Apple** y su forma única de diseñar productos.
+Soy un **frontend developer** apasionado por la tecnología, el diseño y la innovación. Mi enfoque siempre está en crear experiencias **elegantes** y **funcionales**. 
 
 ---
 
@@ -42,12 +42,6 @@ Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si te interesa tr
 
 ---
 
-### 🎨 **Mi filosofía de diseño**
-
-El buen diseño no es solo estético, sino funcional. Me inspiro en cómo **Apple** hace que la tecnología sea accesible y atractiva para todos. Mis proyectos siempre buscan el balance perfecto entre **simplicidad** y **eficiencia**.
-
----
-
 ### 🌟 **¡Gracias por visitar mi perfil!**
 
 ---
@@ -57,7 +51,7 @@ El buen diseño no es solo estético, sino funcional. Me inspiro en cómo **Appl
 ---
 
 <div align="center">
-  ![Ivi_dev](https://img.shields.io/badge/Frontend_Developer-61DAFB?style=flat&logo=react&logoColor=black)
+  <img src="https://img.shields.io/badge/Frontend_Developer-61DAFB?style=flat&logo=react&logoColor=black" alt="logo frontent" />
 </div>
 
 ---
