@@ -1,57 +1,54 @@
-# 👨‍💻 ¡Hola! Soy **Ivi_dev** 👨‍💻
+# 👨‍💻 **¡Hola! Soy Ivi_dev** 👨‍💻
 
-## 🧑‍💻 **Frontend Developer | React, TypeScript, JavaScript, Tailwind CSS** 
+## 🌟 **Frontend Developer | React, TypeScript, JavaScript, Tailwind CSS**
 
 ---
 
 ### 🚀 **Acerca de mí**
 
-Soy un **frontend developer** apasionado por la tecnología, el diseño y la innovación. Me encanta trabajar con **React**, **TypeScript**, y **Tailwind CSS** para crear aplicaciones web modernas y eficientes. Siempre busco soluciones elegantes y funcionales, al igual que la filosofía de diseño de **Apple**, que considero una de mis mayores inspiraciones.
+Soy un **frontend developer** apasionado por la tecnología, el diseño y la innovación. Mi enfoque siempre está en crear experiencias **elegantes** y **funcionales**. Me encanta trabajar con **React**, **TypeScript**, y **Tailwind CSS** para crear aplicaciones web modernas, al mismo tiempo que me inspiro en **Apple** y su forma única de diseñar productos.
 
 ---
 
-### ⚙️ **Tecnologías con las que trabajo**
+### 🖥️ **Tecnologías que uso**
 
-🖥️ **Lenguajes**  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-🎨 **Estilos**  
-- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-🔧 **Herramientas**  
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
----
-
-### 🖋️ **Diseño & Filosofía**
-
-Mi objetivo es crear aplicaciones que no solo funcionen bien, sino que también ofrezcan una **experiencia de usuario excepcional**. Soy un gran admirador de cómo **Apple** diseña sus productos, centrándose en la simplicidad, el rendimiento y el detalle. Esto se refleja en cómo me acerco a cada proyecto: buscando un balance entre **estética** y **funcionalidad**.
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+</div>
 
 ---
 
 ### 🎮 **Aficiones**
 
-Además de mi pasión por el desarrollo web, me encanta explorar nuevas tecnologías, videojuegos y la **cultura japonesa**. Me inspira cómo el diseño y la innovación están al centro de todo lo que hace **Apple**, y cómo estas filosofías pueden aplicarse al desarrollo de software.
+Me encanta sumergirme en **videojuegos**, explorar nuevas tecnologías y, sobre todo, todo lo relacionado con **Apple** y la **cultura japonesa**. Creo firmemente que la innovación y el diseño deben ir de la mano para lograr algo verdaderamente espectacular.
 
 ---
 
-### 👀 **¡Echa un vistazo a mi trabajo!**
+### 👨‍💻 **Un día en la vida de un programador**
 
-A continuación puedes ver una pequeña animación que representa un día típico de desarrollo en mi vida. ¡Espero que te guste!
+Aquí te dejo una animación que representa un día típico en mi vida como programador. ¡Espero que te inspire tanto como a mí!
 
-![Gif programador](https://media.giphy.com/media/xUPGcA1JFrhWjZYFq8/giphy.gif)
-
-*(Este es un gif genérico de un programador codificando, puedes reemplazarlo por uno que más te guste)*
+<div align="center">
+  <img src="https://media.giphy.com/media/xUPGcA1JFrhWjZYFq8/giphy.gif" alt="Programador Pixel Art" width="300" />
+</div>
 
 ---
 
 ### 📬 **Conéctemos**
 
-Si estás interesado en colaborar en algún proyecto o solo quieres charlar sobre tecnología, no dudes en **contactarme**. Estoy siempre buscando nuevas oportunidades para aprender y crecer.
+Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si te interesa trabajar juntos o simplemente hablar sobre tecnología, ¡no dudes en contactarme!
 
 - [LinkedIn](https://www.linkedin.com/in/ivi-dev)
 - [Twitter](https://twitter.com/ivi_dev)
+
+---
+
+### 🎨 **Mi filosofía de diseño**
+
+El buen diseño no es solo estético, sino funcional. Me inspiro en cómo **Apple** hace que la tecnología sea accesible y atractiva para todos. Mis proyectos siempre buscan el balance perfecto entre **simplicidad** y **eficiencia**.
 
 ---
 
@@ -59,13 +56,13 @@ Si estás interesado en colaborar en algún proyecto o solo quieres charlar sobr
 
 ---
 
-_Mantén la curiosidad, la creatividad y sigue diseñando el futuro con tecnología._
-
-*“Diseñar no es solo hacer que las cosas se vean bien, sino también que funcionen de manera increíble”* – **Apple**
+**“Diseñar no es solo hacer que las cosas se vean bien, sino también que funcionen de manera increíble.”** – **Apple**
 
 ---
 
-![Ivi_dev](https://img.shields.io/badge/Frontend_Developer-61DAFB?style=flat&logo=react&logoColor=black)
+<div align="center">
+  ![Ivi_dev](https://img.shields.io/badge/Frontend_Developer-61DAFB?style=flat&logo=react&logoColor=black)
+</div>
 
 ---
 
