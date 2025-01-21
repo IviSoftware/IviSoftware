@@ -10,7 +10,7 @@ Soy un **frontend developer** apasionado por la tecnología, el diseño y la inn
 
 ---
 
-### 🖥️ **Tecnologías que uso** y **Un día en la vida de un programador**
+### 🖥️ **Tecnologías que uso**
 
 <table>
   <tr>
@@ -21,7 +21,7 @@ Soy un **frontend developer** apasionado por la tecnología, el diseño y la inn
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/xUPGcA1JFrhWjZYFq8/giphy.gif" alt="Programador Pixel Art" width="300" />
+      <img src="https://soranews24.com/wp-content/uploads/sites/3/2014/12/pixel-art-11.gif?w=500" alt="Programador Pixel Art" width="300" />
     </td>
   </tr>
 </table>
@@ -38,8 +38,7 @@ Me encanta sumergirme en **videojuegos**, explorar nuevas tecnologías y, sobre 
 
 Siempre estoy abierto a nuevas oportunidades y colaboraciones. Si te interesa trabajar juntos o simplemente hablar sobre tecnología, ¡no dudes en contactarme!
 
-- [LinkedIn](https://www.linkedin.com/in/ivi-dev)
-- [Twitter](https://twitter.com/ivi_dev)
+- [LinkedIn](https://www.linkedin.com/in/ivimendieta/)
 
 ---
 
