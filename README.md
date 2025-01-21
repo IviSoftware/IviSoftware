@@ -10,28 +10,21 @@ Soy un **frontend developer** apasionado por la tecnología, el diseño y la inn
 
 ---
 
-### 🖥️ **Tecnologías que uso**
+### 🖥️ **Tecnologías que uso** y **Un día en la vida de un programador**
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-</div>
-
----
-
-### 👨‍💻 **Un día en la vida de un programador**
-
-<div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
-  <div style="margin-right: 20px;">
-    <img src="https://media.giphy.com/media/xUPGcA1JFrhWjZYFq8/giphy.gif" alt="Programador Pixel Art" width="300" />
-  </div>
-  <div>
-    <h3>¡Así es como me veo codificando todos los días! 😎</h3>
-    <p>Me esfuerzo por crear aplicaciones de calidad, funcionales y con un diseño impecable. Todo esto mientras disfruto de un buen café y un poco de música.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;"/>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 10px;"/>
+      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" style="margin-right: 10px;"/>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/xUPGcA1JFrhWjZYFq8/giphy.gif" alt="Programador Pixel Art" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
